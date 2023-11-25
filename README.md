@@ -34,7 +34,7 @@ natours- provide you exciting tours like -the forest explorer,t sea explorer ,sn
 ----------
 * PEOPLE STORIES
 --------
-![Screenshot (11)](https://user-images.githubusercontent.com/115452935/202715261-83f5c529-4ee8-401e-a8fc-12a98122f891.png)
+
 ---------
 * BOOKING SECTION
 --------
